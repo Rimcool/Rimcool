@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rimla 👋</h1>
+<h3 align="center">Front-End Developer | Web Designer</h3>
 
-<!--
-**Rimcool/Rimcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+- HTML, CSS, JavaScript,Angualar,Wordpress
+- Bootstrap & Responsive Design
+- ASP.NET / Laravel /Php /C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Projects:
+- ☕ Cafe Website (Bootstrap)
+- 📚 Book Review Website
+- 🍜 Gharelu Zaika
+- 
+- 🛍️ Product Landing Pages
+
+🛠 Tech Stack:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,git" />
+</p>
+
+📫 Contact me:
+- GitHub: [Rimla Shehad](https://github.com/Rimcool)
+- Email: rimlashehad@gmail.com
+
+✨ “Learning one step at a time.”
