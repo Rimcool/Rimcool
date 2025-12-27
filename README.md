@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rimla 👋</h1>
-<h3 align="center">Front-End Developer | Web Designer</h3>
+<h3 align="center">Full-Stack Developer | Web Designer</h3>
 
 ---
 
