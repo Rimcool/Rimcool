@@ -12,7 +12,7 @@
 - ☕ Cafe Website (Bootstrap)
 - 📚 Book Review Website
 - 🍜 Gharelu Zaika
-- 
+- 🤖 **BizFlow AI** – AI-powered business generator & automation platform
 - 🛍️ Product Landing Pages
 
 🛠 Tech Stack:
