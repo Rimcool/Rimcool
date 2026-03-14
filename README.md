@@ -1,50 +1,198 @@
-<h1 align="center">Hi, I'm Rimla 👋</h1>
-<h3 align="center">Full-Stack Developer | Web Designer</h3>
+<!-- ✦ RIMLA SHEHAD — GitHub Profile README ✦ -->
+<!-- 🌸 cottagecore × pixel witch × dark dev energy 🌸 -->
 
-<!-- Glassmorphism-style header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0D1117&text=RIMLA%20SHEHAD&fontColor=C9D1D9&fontSize=36&desc=AI-powered+Business+&+Web+Solutions&descAlignY=70" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&lines=Building+intelligent+web+interfaces;Focused+on+AI-powered+business+solutions;Minimal.+Dark.+Future-ready." />
-</p>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  ✿ ❝ she codes at midnight with jasmine tea & big dreams ❞ ✿ ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c6d0,50:c9b8f0,100:a8d8ea&height=120&section=header&text=Rimla%20Shehad&fontSize=42&fontColor=4a2c6b&fontAlignY=65&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%9C%A6%20Pixel%20Witch%20%E2%9C%A6%20Builder%20of%20Worlds&descSize=14&descAlignY=85&descColor=7c5cbf"/>
 
-### 🌱 I’m currently learning:
-- HTML, CSS, JavaScript, Angular, WordPress  
-- Bootstrap & Responsive Design  
-- ASP.NET / Laravel / PHP / C#  
+</div>
 
 ---
 
-### 💼 Projects:
-- ☕ Cafe Website (Bootstrap)  
-- 📚 Book Review Website  
-- 🍜 Gharelu Zaika  
-- 🤖 **BizFlow AI** – AI-powered business generator & automation platform  
-- 🛍️ Product Landing Pages  
+<div align="center">
+
+### ˚ ༘ ✶ ⋆｡˚ who is she, exactly? ˚ ༘ ✶ ⋆｡˚
+
+</div>
+
+```javascript
+const rimla = {
+  location:    "✦ Karachi, Pakistan 🌙",
+  role:        "Full Stack Developer",
+  vibe:        ["midnight coder 🕯️", "pixel witch 🧙‍♀️", "bug slayer 🗡️"],
+  currentSpell: "learning Solidity & Web3 🔮",
+  sidetask:    "game development experiments 🎮",
+  fuelledBy:   ["chai ☕", "lo-fi beats 🎵", "the thrill of a clean build ✨"],
+  funFact:     "shipped 11 full apps before turning 20 💫"
+};
+```
 
 ---
 
-### 🛠 Tech Stack:
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,git&theme=dark" />
-</p>
+<div align="center">
+
+### 🌿 ✦ the grimoire of skills ✦ 🌿
+*( every spell she knows )*
+
+</div>
+
+```
+🌸 FRONTEND MAGIC 🌸
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  HTML5     ████████████████████  ⟡ enchanted ✓
+  CSS3      ████████████████████  ⟡ enchanted ✓
+  JS ES6+   ████████████████░░░░  ⟡ powerful  ✓
+  Bootstrap ██████████████████░░  ⟡ enchanted ✓
+
+🍄 BACKEND POTIONS 🍄
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PHP          ████████████████████  ⟡ enchanted ✓
+  Laravel      ████████████████████  ⟡ enchanted ✓
+  MySQL        ████████████████░░░░  ⟡ powerful  ✓
+  RESTful API  ████████████████░░░░  ⟡ powerful  ✓
+
+🌙 MOBILE & DESKTOP SPELLS 🌙
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  React Native  ██████████████░░░░░░  ⟡ casting ✓
+  Electron.js   ██████████████░░░░░░  ⟡ casting ✓
+  Capacitor     ██████████████░░░░░░  ⟡ casting ✓
+  Firebase      ████████████░░░░░░░░  ⟡ casting ✓
+
+🔮 CURRENTLY BREWING 🔮
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Solidity / Web3  ████░░░░░░░░░░░░░░░░  ⟡ apprentice
+  Game Dev         ███░░░░░░░░░░░░░░░░░  ⟡ apprentice
+```
 
 ---
 
-### 📫 Contact me:
-- GitHub: [Rimla Shehad](https://github.com/Rimcool)  
-- Email: rimlashehad@gmail.com  
+<div align="center">
+
+### 🕯️ ✦ the enchanted project shelf ✦ 🕯️
+*( 11 apps. all built. all shipped. no shortcuts. )*
+
+</div>
 
 ---
 
-<p align="center">
-  <sub>✨ Learning one step at a time. Minimal, dark, and professional.</sub>
-</p>
+> ### 🤖 BizFlow AI `[ Laravel · PHP · MySQL · AI ]` — *Jan–Mar 2025*
+> *❝ she taught a machine to build entire businesses ❞*
+>
+> A platform that conjures full e-commerce websites — product pages, SEO, marketing copy — **in under 5 minutes** from a single user input. Powered by an AI chatbot that handles 100% of business owner queries autonomously.
+>
+> `🌿 AI-generated sites` · `🌿 zero human support needed` · `🌿 3-module Laravel backend`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rimcool&show_icons=true&theme=transparent&hide_border=true" />
-</p>
+---
+
+> ### ⛓️ EduChain `[ Laravel · PHP · MySQL · Blockchain ]` — *Oct–Dec 2024*
+> *❝ she made academic fraud mathematically impossible ❞*
+>
+> A blockchain-powered certificate platform where every credential is cryptographically hashed. Tamper-proof. Instantly verifiable. Built an admin panel for institutions to issue, manage & revoke across thousands of records.
+>
+> `🌿 100% fraud-proof` · `🌿 decentralised architecture` · `🌿 real-time verification`
+
+---
+
+> ### 💅 Elegant Salon `[ Laravel · PHP · MySQL ]` — *Aug–Oct 2024*
+> *❝ she made booking a haircut feel like luxury ❞*
+>
+> Full salon management system — appointments, staff allocation, service catalogue, role-based access. One dashboard to rule them all. Reduced admin time per booking by an estimated **60%**.
+>
+> `🌿 role-based auth` · `🌿 real-time scheduling` · `🌿 multi-user`
+
+---
+
+> ### 📦 SmartStock `[ PHP · MySQL ]` — *Jun–Jul 2024*
+> *❝ she gave small business owners their weekends back ❞*
+>
+> Inventory manager built for non-technical users — zero jargon, full power. Automated report generation saves owners **3–5 hours of manual stock counting per week**.
+>
+> `🌿 zero learning curve UI` · `🌿 automated reports` · `🌿 multi-category`
+
+---
+
+> ### 👗 Smart Closet `[ Capacitor · React · Firebase ]` — *Dec 2024–Feb 2025*
+> *❝ she built you a personal stylist that lives in your phone ❞*
+>
+> Photograph your clothes. Store them. Get outfit suggestions based on colour, category, and occasion. Firebase syncs everything across devices in real time.
+>
+> `🌿 AI outfit suggestions` · `🌿 cloud wardrobe` · `🌿 cross-device sync`
+
+---
+
+> ### ☕ Cafe Finder `[ React Native · Expo · Firebase ]` — *Oct–Nov 2024*
+> *❝ she helped the world find their perfect corner café ❞*
+>
+> Cross-platform mobile app for discovering nearby cafés with search, filters, reviews, and live data. One codebase → **Android + iOS**, cutting dev time by 50%.
+>
+> `🌿 cross-platform` · `🌿 live Firebase backend` · `🌿 single codebase`
+
+---
+
+> ### 🎉 Festivio `[ JavaScript · Bootstrap ]` — *Apr–May 2024*
+> *❝ she mapped the world's celebrations ❞*
+>
+> Festival discovery platform covering 50+ festivals across India, Pakistan, China & USA. Animated UI, real-time autocomplete, and downloadable PDF guides for offline use.
+
+---
+
+> ### 📸 Girly Photobooth `[ Electron.js · HTML · CSS · JS ]` — *Feb–Mar 2025*
+> *❝ she built a whole photobooth that runs on your desktop ❞*
+>
+> Live camera integration, themed filters, frames & overlays — packaged as a native desktop executable for Windows and Mac.
+
+---
+
+> ### 🍔 Gharelu Zaika · 📚 Book Reviews · ☕ CafeCoffee
+> *three more ships in the fleet* — food e-commerce, interactive book reviews & café platforms, all crafted with pure frontend love.
+
+---
+
+<div align="center">
+
+### 🎓 ✦ the learning archives ✦ 🎓
+
+</div>
+
+```
+📜 Front-End Web Development ............ Aptech Computer Education · 2023
+   ↳ 120+ hours · HTML5 · CSS3 · JS · Bootstrap · UI/UX
+
+📜 Advanced JavaScript & Bootstrap ...... Aptech Computer Education · 2023
+   ↳ DOM manipulation · AJAX · event-driven programming · CSS animation
+
+🏫 Intermediate Pre-Engineering ......... Board of Intermediate Education Karachi · 2024–Present
+   ↳ mathematics · physics · analytical reasoning
+```
+
+---
+
+<div align="center">
+
+### 🌸 ✦ find her in the wild ✦ 🌸
+
+[![Email](https://img.shields.io/badge/✉%20rimlashehad%40gmail.com-f9c6d0?style=for-the-badge&logoColor=4a2c6b)](mailto:rimlashehad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c9b8f0?style=for-the-badge&logo=linkedin&logoColor=4a2c6b)](https://linkedin.com/in/rimla-shehad-71507a287)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-a8d8ea?style=for-the-badge&logoColor=4a2c6b)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
+  "i don't just write code. i craft little worlds."
+✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8d8ea,50:c9b8f0,100:f9c6d0&height=100&section=footer"/>
+
+</div>
