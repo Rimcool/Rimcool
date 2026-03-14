@@ -3,13 +3,20 @@
 
 <div align="center">
 
+<!-- 🖼️ BANNER — upload rimla_banner.png to your repo and update the path below -->
+<img src="./rimla_banner.png" width="100%" alt="Rimla Shehad Banner"/>
+
+</div>
+
+<div align="center">
+
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║  ✿ ❝ she codes at midnight with jasmine tea & big dreams ❞ ✿ ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c6d0,50:c9b8f0,100:a8d8ea&height=120&section=header&text=Rimla%20Shehad&fontSize=42&fontColor=4a2c6b&fontAlignY=65&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%9C%A6%20Pixel%20Witch%20%E2%9C%A6%20Builder%20of%20Worlds&descSize=14&descAlignY=85&descColor=7c5cbf"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c6d0,50:c9b8f0,100:a8d8ea&height=100&section=header&text=&fontSize=0&animation=fadeIn"/>
 
 </div>
 
@@ -135,22 +142,22 @@ const rimla = {
 
 ---
 
-> ### 🎉 Festivio `[ JavaScript · Bootstrap ]` — *Apr–May 2024*
-> *❝ she mapped the world's celebrations ❞*
->
-> Festival discovery platform covering 50+ festivals across India, Pakistan, China & USA. Animated UI, real-time autocomplete, and downloadable PDF guides for offline use.
+> ### 🎉 Festivio · 📸 Girly Photobooth · 🍔 Gharelu Zaika · 📚 Book Reviews · ☕ CafeCoffee
+> *five more ships in the fleet* — festivals, photobooth desktop app, food e-commerce, book reviews & café platforms.
 
 ---
 
-> ### 📸 Girly Photobooth `[ Electron.js · HTML · CSS · JS ]` — *Feb–Mar 2025*
-> *❝ she built a whole photobooth that runs on your desktop ❞*
->
-> Live camera integration, themed filters, frames & overlays — packaged as a native desktop executable for Windows and Mac.
+<div align="center">
 
----
+### 📊 ✦ the spell counter ✦ 📊
 
-> ### 🍔 Gharelu Zaika · 📚 Book Reviews · ☕ CafeCoffee
-> *three more ships in the fleet* — food e-commerce, interactive book reviews & café platforms, all crafted with pure frontend love.
+<img src="https://github-readme-stats.vercel.app/api?username=Rimcool&show_icons=true&theme=transparent&title_color=c9b8f0&text_color=9c7fd4&icon_color=f9c6d0&border_color=4a2699&bg_color=1a0e2e&ring_color=c9b8f0&hide_border=false" height="160" alt="Rimla's GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimcool&layout=compact&theme=transparent&title_color=c9b8f0&text_color=9c7fd4&border_color=4a2699&bg_color=1a0e2e&hide_border=false" height="160" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimcool&theme=transparent&ring=c9b8f0&fire=f9c6d0&currStreakLabel=a8d8ea&sideLabels=9c7fd4&currStreakNum=c9b8f0&sideNums=c9b8f0&dates=7c5cbf&background=1a0e2e&border=4a2699" height="160" alt="Streak Stats"/>
+
+</div>
 
 ---
 
