@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- 🖼️ BANNER — upload rimla_banner.png to your repo and update the path below -->
-<img src="./rimla_banner.png" width="100%" alt="Rimla Shehad Banner"/>
+<img src="./c:\Users\SE\Downloads\rimla_banner.png" width="100%" alt="Rimla Shehad Banner"/>
 
 </div>
 
