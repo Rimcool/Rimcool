@@ -32,7 +32,7 @@ Currently exploring **Web3 & Solidity** and **Game Development**.
 
 ## 🚀 Featured Projects
 
-### [BizFlow](https://github.com/Rimcool/BizFlow)
+### [BizFlow](https://github.com/Rimcool/BizFlow-AI)
 > Business automation platform that generates complete e-commerce websites in under 5 minutes. Features a custom Python chatbot integrated into the Laravel backend via API, handling business owner queries on growth, troubleshooting, and daily operations.
 
 `Laravel` `MySQL` `Python` `REST API` `Custom Chatbot`
