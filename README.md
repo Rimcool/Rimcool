@@ -1,109 +1,94 @@
-# Hi, I'm Rimla Shehad 👋
+#### Hi, I'm Rimla Shehad 👋
 
-**Full Stack Developer** based in Karachi, Pakistan.
+**Full Stack & AI Software Developer** based in Karachi, Pakistan. 
 
-I build real things — 11 complete web, mobile, and desktop applications shipped and deployed, used by 15+ local businesses. I work across the full stack: from React frontends to Laravel/Node backends, mobile apps with React Native, and desktop tools with Electron.js and Tauri.
+I build end-to-end web, mobile, desktop, and AI applications — from **Python/Streamlit** machine learning prototypes to **Laravel/Node.js** backends, **React Native** mobile apps, and **Electron.js** desktop tools. 
 
-Currently exploring **Web3 & Solidity** and **Game Development**.
+Currently exploring **Web3 & Solidity** and **Game Development**. 
 
----
-
-## 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 **Frontend**
-`React.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Bootstrap 5` `jQuery`
+React.js TypeScript JavaScript (ES6+) HTML5 CSS3 Bootstrap 5 jQuery 
 
-**Backend**
-`Node.js` `Express.js` `Laravel` `PHP` `Python` `REST APIs`
+**Backend & AI**
+Python Streamlit OpenAI API Laravel PHP Node.js Express.js REST APIs 
 
-**Database**
-`MySQL` `MongoDB` `Firebase`
+**Database & Cloud**
+MySQL MongoDB Firebase SQLite 
 
 **Mobile & Desktop**
-`React Native` `Expo` `Capacitor.js` `Electron.js` `Tauri`
+React Native Expo Capacitor.js Electron.js Tauri 
 
-**Tools**
-`Git` `GitHub` `VS Code` `cPanel` `npm` `Composer`
+**Tools & Testing**
+Git GitHub VS Code cPanel npm Composer Automated Unit & Integration Testing 
 
 **Learning**
-`Solidity` `Web3` `Game Development`
+Solidity Web3 Game Development 
 
----
+#### 🚀 Featured Projects
 
-## 🚀 Featured Projects
+#### [NeuroNexus — Multimodal Neuro-Screening & Triage](https://neuronexus18.streamlit.app/)
 
-### [BizFlow](https://github.com/Rimcool/BizFlow-AI)
-> Business automation platform that generates complete e-commerce websites in under 5 minutes. Features a custom Python chatbot integrated into the Laravel backend via API, handling business owner queries on growth, troubleshooting, and daily operations.
+Browser-based neuro-screening prototype built solo for the **Future Health Digital Innovation Challenge** (Future Health – Abu Dhabi, Microsoft, MBZUAI, Hack2skill). Analyzes 16 kHz acoustic voice biomarkers, gait kinematics, reaction latency, and cognitive recall—validated at **0.921 ROC-AUC** on the UCI DARWIN cohort with **96 passing automated tests**. 
 
-`Laravel` `MySQL` `Python` `REST API` `Custom Chatbot`
+Python Streamlit Machine Learning Signal Processing Automated Testing 
 
----
+#### [BizFlow AI](https://github.com/Rimcool/BizFlow-AI)
 
-### [EduChain](https://github.com/Rimcool/EduChain)
-> Blockchain-integrated academic credential platform. Every certificate is cryptographically hashed — tamper-proof and instantly verifiable by third parties. Includes an admin panel for issuing, managing, and revoking certificates.
+AI-powered business automation platform built on Laravel that generates e-commerce storefronts, SEO metadata, marketing plans, and downloadable Business Growth PDFs, complete with an admin dashboard and integrated AI support chatbot. 
 
-`Laravel` `PHP` `MySQL` `Blockchain` `Cryptographic Hashing`
+Laravel PHP MySQL OpenAI API REST API 
 
----
+#### [EduChain](https://github.com/Rimcool/EduChain)
 
-### [Elegant Salon](https://github.com/Rimcool/ElegantSalon)
-> Full-stack salon management system covering appointment booking, service catalogue, staff allocation, and role-based access control. Reduced estimated admin time per booking by 60%.
+Tamper-proof academic credential verification platform built on Laravel 12. Applies SHA-256 cryptographic hashing and a 4-layer verification engine across 266 HEC-recognized institutions, featuring bulk CSV verification, QR badges, and a REST API. 
 
-`Laravel` `PHP` `MySQL` `Role-Based Auth`
+Laravel PHP MySQL SHA-256 Cryptography REST API 
 
----
+#### [Cafe Finder](https://github.com/Rimcool/CafeFinder)
 
-### [SmartStock](https://github.com/Rimcool/SmartStock)
-> Inventory management system built for non-technical small business owners. Zero-jargon UI, automated reports, real-time stock tracking — saves owners 3–5 hours of manual work per week.
+Cross-platform iOS and Android mobile app for discovering nearby cafés using GPS location, interactive maps, search filters, and cloud-synced favorites. 
 
-`PHP` `MySQL`
+React Native Expo TypeScript Firebase Google Places API 
 
----
+#### [MyCloset (Smart Closet)](https://github.com/Rimcool/MyCloset)
 
-### [Smart Closet](https://github.com/Rimcool/SmartCloset)
-> Hybrid mobile app to photograph, store, and categorise clothing. Suggests outfits based on colour, category, and occasion. Firebase syncs across devices in real time.
+Hybrid mobile wardrobe organizer that lets users photograph, categorize, and sync clothing items across devices in real time to generate outfit ideas by occasion and color. 
 
-`Capacitor.js` `JavaScript` `Firebase`
+Capacitor.js TypeScript JavaScript Firebase 
 
----
+#### [Elegant Salon](https://github.com/Rimcool/ElegantSalon) & [SmartStock](https://github.com/Rimcool/SmartStock)
 
-### [Cafe Finder](https://github.com/Rimcool/CafeFinder)
-> Cross-platform mobile app for discovering nearby cafés — search, filters, reviews, and live data. Single codebase deployed on both Android and iOS.
+Full-stack PHP/Laravel business management suites featuring multi-role salon appointment scheduling, staff allocation, and simplified real-time inventory reporting. 
 
-`React Native` `Expo` `Firebase`
+Laravel PHP MySQL Role-Based Auth 
 
----
+#### 📊 GitHub Stats
 
-## 📊 GitHub Stats
+ 
 
-![Rimla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimcool&show_icons=true&theme=default&title_color=1B3A6B&text_color=444444&icon_color=1B3A6B&border_color=CCCCCC)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimcool&layout=compact&theme=default&title_color=1B3A6B&text_color=444444&border_color=CCCCCC)
+#### 📋 More Projects
 
----
+ProjectDescriptionStack
+**[Photobooth App](https://github.com/Rimcool/Photobooth-app)**
+Desktop photobooth app with live camera integration, filters & framesElectron.js HTML/CSS
+**[Dream Analysis Chatbot](https://github.com/Rimcool/Dream-Analysis-Lucid-Dreaming-Guide-Chatbot)**
+Interactive Python chatbot for dream interpretation and lucid dreaming guidancePython NLP
+**Festivio**
+Festival discovery platform indexing 50+ festivals with offline PDF guidesPHP MySQL
+**Gharelu Zaika**
+Mobile-first food e-commerce platform connecting home chefs with local buyersPHP MySQL
 
-## 📋 More Projects
+#### 🎓 Certifications
 
-| Project | Description | Stack |
-|---|---|---|
-| Girly Photobooth | Desktop photobooth app with live camera, filters & frames | `Electron.js` |
-| Festivio | Festival discovery platform — 50+ festivals across 4 countries | `PHP` `MySQL` |
-| Gharelu Zaika | Food e-commerce connecting home chefs with local customers | `PHP` `MySQL` |
+* **Front-End Web Development** — Aptech Computer Education (2023) · 120+ hours
+* **Advanced JavaScript & Bootstrap** — Aptech Computer Education (2023)
 
----
+#### 📫 Connect
 
-## 🎓 Certifications
+[](mailto:rimlashehad@gmail.com)
+[](https://linkedin.com/in/rimla-shehad-71507a287)
 
-- **Front-End Web Development** — Aptech Computer Education (2023) · 120+ hours
-- **Advanced JavaScript & Bootstrap** — Aptech Computer Education (2023)
 
----
-
-## 📫 Connect
-
-[![Email](https://img.shields.io/badge/Email-rimlashehad@gmail.com-1B3A6B?style=flat&logo=gmail&logoColor=white)](mailto:rimlashehad@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rimla--shehad-1B3A6B?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rimla-shehad-71507a287)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rimlashehadportfolio.vercel.app-1B3A6B?style=flat&logo=vercel&logoColor=white)](https://rimlashehadportfolio.vercel.app)
-
----
-
-*Open to internship and junior developer opportunities in Karachi.*
+*Available for freelance full-stack & AI projects, remote internships, and junior developer roles.*
